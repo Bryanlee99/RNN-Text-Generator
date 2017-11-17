@@ -1,0 +1,80 @@
+Run 1: 12.2% word accuracy | Cell-Type: 'GRU' | Epochs: 10 | Num Steps: 80
+
+Agzgsfhitther thy berest and.
+
+PARRESES:
+This a sit har hore seales, to what to wher sortith.
+
+PANRCINSER:
+Thar thards shout of thit hour with,
+Wor shath more wate to tins and, and tere hare hath tord hort
+The corless srees that thy mans on mand of thour as of my,
+Wheare have wens my heands and the to housh.
+Asd thar a som and hor sorto meare.
+
+ARTORIO:
+I'thars ands shere soudsenst as thear and thard and arlant
+Thee the sore and the crose thon sensing,,
+Torter the my all the chast that thare thou till thy
+Anse me his, bet the sithiserter of hens to wich
+Tand whatt the sheate wens, to sort and and shan ard to sorst his selsent.
+
+CAMEREO:
+Shale the herede sut show whill sould wath to she sotsine sreed
+And werler so sont tord on mathed the with
+---
+
+Run 2: 13.4% word accuracy | Cell-Type: 'GRU' | Epochs: 10 | Num Steps: 40
+
+Ang:
+
+ALEINLELLINELTINAR:
+Whis to be mast it werrare with thit were a sour thene thounss.
+
+BLUELON:
+In where the hart mortirs the sood, this,
+As well thee whan,
+And wherlath the tith he whalt hom my toush weat, as tholest there the shate tate.
+What with the wimlly me his that to he thes seor, hand singte stouthes, and mates there fis my and shee sartes,
+And so stare tist theres our miters it hes mest as heririon
+Ant her weer mase hin thicl the mes hat have
+That his thoull tilled.
+
+CARTINE:
+Hall thould, and hin wise the mires to the marins,
+The mish shan the mereser a carest well ancinges mistares
+Arle hist shist the heat, the his tarle,
+Thor the how he the shat whiss to mish to the hate, that sis me hart
+Thit hing that with tertings an in th
+
+---
+Run 3: big.txt | Cell-Type: 'GRU' | Epochs: 5 | Num Steps: 40
+
+Ack,0070700      CERAR ERESS ERIPEN TINT  THA   TH  ERI ERIS
+       | ECLIS APEN ECNER     S       |1 S    |    
+                
+CORAPETEREEN
+ X           
+             1317
+          139,2021    1411  1917. Seepled  marout  sollate  carie                                                 | |
+|
+ |131     | |         Chessier, 2991      CHANAR         |     | |
+             
+          
+ |
+
+           1918     |, 1191,000  penatures, 385  trarsionalicy, and
+ child  protes  comer  and              | |
+   
+
+
+
+
+Chier Son wert or
+   
+                        enorgst  carriat and                                       sook
+       expared                                         same  prase  tout it is arsiation were secound
+down track in
+1700,
+traying 
+
